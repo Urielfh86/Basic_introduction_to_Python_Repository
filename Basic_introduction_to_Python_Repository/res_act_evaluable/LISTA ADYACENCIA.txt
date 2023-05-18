@@ -1,0 +1,12 @@
+LISTA ADYACENCIA
+
+grafo_lista_ady = {
+	a : [(b, 1), (c, 3)]
+	b : [(e, 3)]
+	c : [(a, 2), (d, 1)]
+	d : [(a, 1), (e, 2), (f, 1)]	
+	e : [(c, 3], (f, 4)]
+	f : [(g, 1)]
+	g : [(b, 2)]
+}
+

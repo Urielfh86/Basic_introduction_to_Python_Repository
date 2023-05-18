@@ -1,0 +1,3 @@
+Este texto es para la realizacion
+del ejercicio uno en el PDF 
+de acceso a ficheros
